@@ -1,0 +1,6 @@
+general:
+  port: 4444
+
+server:
+  buff_size: 8192
+  connection_queue: 1
