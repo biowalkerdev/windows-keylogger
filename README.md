@@ -16,7 +16,7 @@ Then build the ``keylogger.py`` to .exe by using ``build.bat`` script in termina
 ```batch
 build.bat <Filename of .exe>
 ```
-> ⚠️ Warning! You cant build into .exe on linux using PyInstaller
+> ⚠️ Warning! You cant build into .exe on linux using PyInstaller  
 > If you are on Linux, run the script through Wine
 
 The dist folder will contain the finished .exe file  
