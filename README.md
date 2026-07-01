@@ -1,3 +1,8 @@
+## Disclaimer
+**THIS SOFTWARE IS PROVIDED FOR EDUCATIONAL PURPOSES ONLY**
+THE AUTHOR DOES NOT CONDONE, ENDORSE, OR ENCOURAGE ANY ILLEGAL ACTIVITY
+THE USER IS SOLELY RESPONSIBLE FOR COMPLYING WITH ALL LOCAL LAWS AND REGULATIONS IN THEIR JURISDICTION
+
 ## Usage
 Go to the scripts folder, run ``cryptokey_generator.py`` on terminal with overwriting  
 Once the cryptokey is received, it will be automatically written to the cryptokey.txt file  
@@ -38,5 +43,3 @@ And after the victim opens your .exe, the keylogger will be installed in the sta
 - pynput
 - pyyaml
 - colorama
-
-> ⚠️The author is not responsible for any illegal use of this code
